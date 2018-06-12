@@ -1,0 +1,2 @@
+# cookie-class
+Cookie class
